@@ -1,5 +1,7 @@
 # rime-loengfan
 
+℞: `CanCLID/rime-loengfan`
+
 Loengfan (粵語兩分) is the Cantonese version of Liang Fen input method.
 
 It is based on [zisea](http://zisea.com/) Liang Fen (字海兩分) data and the dictionary of [rime-cantonese](https://github.com/rime/rime-cantonese) input method.
