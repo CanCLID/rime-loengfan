@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": { "editor.defaultFormatter": "ms-python.python" }
+}
